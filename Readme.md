@@ -64,8 +64,8 @@ brew install python@3.11 ffmpeg
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/app.git
-cd app
+git clone https://github.com/Lakshit-Karsoliya/FineVoice.git
+cd FineVoice
 ```
 
 Create and activate a virtual environment:
