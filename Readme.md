@@ -1,6 +1,7 @@
-<h1 align="center">FineVoice</h1><br>
 
-### Your voice. Refined. No subscriptions.
+
+![alt text](assets/hero.png)
+<p align="center">FineVoice</p>
 
 FineVoice is a free, open-source voice isolation and enhancement application designed to make professional-quality audio processing accessible to everyone.
 
@@ -73,6 +74,7 @@ Create and activate a virtual environment:
 ```bash
 python3.11 -m venv .venv
 source .venv/bin/activate
+cd FineVoice
 ```
 
 Upgrade pip and install dependencies:
@@ -102,28 +104,6 @@ uvicorn engine.main:app --port 8000
 
 ---
 
-## Technology
-
-FineVoice is built using open-source technologies and AI models for voice isolation, enhancement, and audio processing.
-
----
-
-## Philosophy
-
-**No subscriptions. No unnecessary barriers. Just useful technology.**
-
-FineVoice is built to give everyone access to better voice recordings without having to pay recurring fees.
-
----
-
-## License
-
-See [LICENSE](LICENSE) for licensing details.
-
----
-
 <p align="center">
-  **FineVoice**
-  <br>
-  <sub>Made with purpose. Powered by open source.</sub>
+  FineVoice
 </p>

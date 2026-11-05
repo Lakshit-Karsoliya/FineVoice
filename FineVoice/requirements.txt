@@ -1,6 +1,7 @@
 # app
 streamlit>=1.40
 matplotlib
+pyarrow<23         
 
 # rest api
 fastapi
